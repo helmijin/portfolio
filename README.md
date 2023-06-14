@@ -10,5 +10,5 @@
 </br>
 
 ## 🖥 Projects
-###1. [Mini_Project](https://github.com/helmijin/Mini_Project) / [Mini_project_add](https://github.com/helmijin/Mini_project_add)
+### 1. [Mini_Project](https://github.com/helmijin/Mini_Project) / [Mini_project_add](https://github.com/helmijin/Mini_project_add)
 > 
