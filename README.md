@@ -3,5 +3,7 @@
 # 📌 Intro
 
 # 📱 Contact
+- 이메일 : gkwls109@gmail.com
+- 블로그 : https://helmi.tistory.com/
 
 # 🖥 Projects
