@@ -21,7 +21,7 @@
 
 <br>
 
-### 2. MovieTvia
+### 2. [MovieTvia](https://github.com/helmijin/MovieTVia)
 > 영화 평점 및 리뷰 사이트 (팀 프로젝트)  
 > 개발 기간 :
 >
