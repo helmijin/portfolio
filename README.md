@@ -23,7 +23,7 @@
 
 ### 2. [MovieTvia](https://github.com/helmijin/MovieTVia)
 > 영화 평점 및 리뷰 사이트 (팀 프로젝트)  
-> 개발 기간 :
+> 개발 기간 : 2022.12.
 >
 > 기술 스택 :
 > Java
@@ -33,7 +33,7 @@
 
 ### 3. [DodamDodam](https://github.com/helmijin/DodamDodam)
 > 반려동물 교육 및 용품 판매 홈페이지 (팀 프로젝트)  
-> 개발 기간 :
+> 개발 기간 : 2023
 >
 > 기술 스택 :
 > Java
