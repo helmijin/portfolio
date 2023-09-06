@@ -26,8 +26,8 @@
 > 개발 기간 : 2022.12.19 ~ 2023.01.06
 >
 > 기술 스택 :
-> Java / Spring Boot / Oracle / Tomcat 9.0
->
+> Java / eclipse / Oracle / Tomcat 9.0
+> HTML / CSS / JS / Servlets & JSP
 
 <br>
 
@@ -36,5 +36,5 @@
 > 개발 기간 : 2023.02.20 ~ 2023.03.13
 >
 > 기술 스택 :
-> Java / Spring Boot / Oracle / Tomcat 9.0
->
+> Java / Spring Boot / Oracle / Tomcat 9.0 / MyBatis / Jquery 
+> HTML / CSS / JS / Servlets & JSP / Maven
