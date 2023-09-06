@@ -17,10 +17,7 @@
 > 개발 기간 : 2022.11.16 ~ 2022.11.22
 >
 > #### 기술 스택 :
-> - Java
-> - eclipse
-> - Oracle
-> - Tomcat 9.0
+> - Java / eclipse / Oracle / Tomcat 9.0
 
 <br>
 
