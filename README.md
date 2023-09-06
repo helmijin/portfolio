@@ -17,7 +17,7 @@
 > 개발 기간 : 2022.11.16 ~ 2022.11.22
 >
 > 기술 스택 :
-> Java
+> Java / eclpise / Oracle / Tomcat 9.0
 
 <br>
 
@@ -26,7 +26,7 @@
 > 개발 기간 : 2022.12.19 ~ 2023.01.06
 >
 > 기술 스택 :
-> Java
+> Java / Spring Boot / Oracle / Tomcat 9.0
 >
 
 <br>
@@ -36,5 +36,5 @@
 > 개발 기간 : 2023.02.20 ~ 2023.03.13
 >
 > 기술 스택 :
-> Java
+> Java / Spring Boot / Oracle / Tomcat 9.0
 >
