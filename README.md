@@ -27,7 +27,7 @@
 >
 > #### 기술 스택 :  
 > Java / eclipse / Oracle / Tomcat 9.0  
-> HTML / CSS / JS / Servlets & JSP
+> HTML5 / CSS / JS / jquery / Servlets & JSP
 
 <br>
 
@@ -37,4 +37,4 @@
 >
 > #### 기술 스택 :  
 > Java / Spring Boot / Oracle / Tomcat 9.0 / MyBatis / Jquery   
-> HTML / CSS / JS / Servlets & JSP / Maven
+> HTML5 / CSS / JS / jquery / Servlets & JSP / Maven
