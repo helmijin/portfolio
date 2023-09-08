@@ -31,7 +31,7 @@
 
 <br>
 
-#### 3. [DodamDodam](https://github.com/helmijin/DodamDodam)
+### 3. [DodamDodam](https://github.com/helmijin/DodamDodam)
 > 반려동물 교육 및 용품 판매 홈페이지 (팀 프로젝트)  
 > 개발 기간 : 2023.02.20 ~ 2023.03.13
 >
