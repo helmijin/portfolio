@@ -3,7 +3,8 @@
 <br>
 
 ## 📌 Intro
-신입 개발자입니다. java, html5, css, javascript, oracle, servlet&jsp, spring, ajax, jQuery 등을 배워 그 기술을 적용해보았습니다. <br>
+웹 프로그래밍을 도전하고 있는 신입 개발자입니다. <br>
+java, html5, css, javascript, oracle, servlet&jsp, spring, ajax, jQuery 등을 배워 그 기술을 적용해보았습니다. <br>
 더 숙련된 개발자가 되기 위해 더욱더 학습하고 노력하겠습니다. <br>
 
 ## 📱 Contact
