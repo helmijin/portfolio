@@ -3,8 +3,8 @@
 <br>
 
 ## 📌 Intro
-꼭 필요한, 감초 같은 개발자가 되자!
-<br>
+신입 개발자입니다. 국비로 java, html5, css, javascript, oracle, servlet&jsp, spring, ajax, jQuery 등을 배우는 과정을 수료하였습니다. <br>
+더 좋은 개발자가 되기 위해 항상 배우고, 노력하겠습니다. <br>
 
 ## 📱 Contact
 - 이메일 : gkwls109@gmail.com
